@@ -66,7 +66,7 @@ def movefind(move):
 def myround(val):
 	return (val*2+1)//2
 	
-#相手の実数値、自分のレベル、タイプ、実数値、技のタイプ、威力、補正からダメージのリストを返す
+#相手の実数値、自分のレベル、タイプ、実数値、技のタイプ、威力、補正からダメージの乱数のリストを返す
 def damage(atklv, atkstts, defstts, movepwr, rev):
 	base = math.floor(math.floor(math.floor(atklv*2/5+2)*movepwr*atkstts/defstts)/50+2)
 	
