@@ -1,0 +1,5189 @@
+{
+  "10まんばりき": {
+    "type": "ground",
+    "power": "95",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "10まんボルト": {
+    "type": "electric",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "DDラリアット": {
+    "type": "dark",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "Gのちから": {
+    "type": "grass",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "Vジェネレート": {
+    "type": "fire",
+    "power": "180",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "アームハンマー": {
+    "type": "fighting",
+    "power": "100",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "アイアンテール": {
+    "type": "steel",
+    "power": "100",
+    "acc": "75",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "アイアンヘッド": {
+    "type": "steel",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "アイアンローラー": {
+    "type": "steel",
+    "power": "130",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "あおいほのお": {
+    "type": "fire",
+    "power": "130",
+    "acc": "85",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "アクアジェット": {
+    "type": "water",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "アクアテール": {
+    "type": "water",
+    "power": "90",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "アクアブレイク": {
+    "type": "water",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "アクアリング": {
+    "type": "water",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "あくうせつだん": {
+    "type": "dragon",
+    "power": "100",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "アクセルロック": {
+    "type": "rock",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "あくのはどう": {
+    "type": "dark",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "あくび": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "あくまのキッス": {
+    "type": "normal",
+    "power": "0",
+    "acc": "75",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "アクロバット": {
+    "type": "flying",
+    "power": "55",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "あさのひざし": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "アシストギア": {
+    "type": "steel",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "アシストパワー": {
+    "type": "psychic",
+    "power": "20",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "アシッドボム": {
+    "type": "poison",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "アストラルビット": {
+    "type": "ghost",
+    "power": "120",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "あてみなげ": {
+    "type": "fighting",
+    "power": "70",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "あなをほる": {
+    "type": "ground",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "あばれる": {
+    "type": "normal",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "アフロブレイク": {
+    "type": "normal",
+    "power": "120",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "あまいかおり": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "あまえる": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "あまごい": {
+    "type": "water",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "あやしいひかり": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "あられ": {
+    "type": "ice",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "アロマセラピー": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "アロマミスト": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "アンカーショット": {
+    "type": "steel",
+    "power": "80",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "アンコール": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "あんこくきょうだ": {
+    "type": "dark",
+    "power": "80",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "いあいぎり": {
+    "type": "normal",
+    "power": "50",
+    "acc": "95",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "いえき": {
+    "type": "poison",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "イカサマ": {
+    "type": "dark",
+    "power": "95",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "いかりのこな": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "いかりのまえば": {
+    "type": "normal",
+    "power": "1",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "いたみわけ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "いちゃもん": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "いてつくしせん": {
+    "type": "psychic",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "いとをはく": {
+    "type": "bug",
+    "power": "0",
+    "acc": "95",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "いのちがけ": {
+    "type": "fighting",
+    "power": "1",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "いのちのしずく": {
+    "type": "water",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "いばる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "いびき": {
+    "type": "normal",
+    "power": "50",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "いやしのすず": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "いやしのねがい": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "いやしのはどう": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "いやなおと": {
+    "type": "normal",
+    "power": "0",
+    "acc": "85",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "いわおとし": {
+    "type": "rock",
+    "power": "50",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "いわくだき": {
+    "type": "fighting",
+    "power": "40",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "いわなだれ": {
+    "type": "rock",
+    "power": "75",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "インファイト": {
+    "type": "fighting",
+    "power": "120",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ウェザーボール": {
+    "type": "normal",
+    "power": "50",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "うずしお": {
+    "type": "water",
+    "power": "35",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "うそなき": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "うたう": {
+    "type": "normal",
+    "power": "0",
+    "acc": "55",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "うたかたのアリア": {
+    "type": "water",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "うちおとす": {
+    "type": "rock",
+    "power": "50",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ウッドハンマー": {
+    "type": "grass",
+    "power": "120",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ウッドホーン": {
+    "type": "grass",
+    "power": "75",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "うっぷんばらし": {
+    "type": "dark",
+    "power": "75",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "うらみ": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "エアカッター": {
+    "type": "flying",
+    "power": "60",
+    "acc": "95",
+    "pp": "25",
+    "cat": "Spm"
+  },
+  "エアスラッシュ": {
+    "type": "flying",
+    "power": "75",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "エアロブラスト": {
+    "type": "flying",
+    "power": "100",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "エコーボイス": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "えだづき": {
+    "type": "grass",
+    "power": "40",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Phm"
+  },
+  "エナジーボール": {
+    "type": "grass",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "エラがみ": {
+    "type": "water",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "エレキネット": {
+    "type": "electric",
+    "power": "55",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "エレキフィールド": {
+    "type": "electric",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "エレキボール": {
+    "type": "electric",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "えんまく": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "おいかぜ": {
+    "type": "flying",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "おいわい": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "オーバードライブ": {
+    "type": "electric",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "オーバーヒート": {
+    "type": "fire",
+    "power": "130",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "オーラぐるま": {
+    "type": "electric",
+    "power": "110",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "オーロラビーム": {
+    "type": "ice",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "オーロラベール": {
+    "type": "ice",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "おきみやげ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "オクタンほう": {
+    "type": "water",
+    "power": "65",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "おさきにどうぞ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "おたけび": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "おだてる": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "おちゃかい": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "おどろかす": {
+    "type": "ghost",
+    "power": "30",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "おにび": {
+    "type": "fire",
+    "power": "0",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "おんねん": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "ガードシェア": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ガードスワップ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "かいでんぱ": {
+    "type": "electric",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "かいりき": {
+    "type": "normal",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "カウンター": {
+    "type": "fighting",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "かえんぐるま": {
+    "type": "fire",
+    "power": "60",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "かえんだん": {
+    "type": "fire",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "かえんほうしゃ": {
+    "type": "fire",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "かえんボール": {
+    "type": "fire",
+    "power": "120",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "かげうち": {
+    "type": "ghost",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "かげぬい": {
+    "type": "ghost",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "かげぶんしん": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "かぜおこし": {
+    "type": "flying",
+    "power": "40",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Spm"
+  },
+  "かたきうち": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "かたくなる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "かなしばり": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "かふんだんご": {
+    "type": "bug",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "かみくだく": {
+    "type": "dark",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "かみつく": {
+    "type": "dark",
+    "power": "60",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "かみなり": {
+    "type": "electric",
+    "power": "110",
+    "acc": "70",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "かみなりのキバ": {
+    "type": "electric",
+    "power": "65",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "かみなりパンチ": {
+    "type": "electric",
+    "power": "75",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "がむしゃら": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "からげんき": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "からにこもる": {
+    "type": "water",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "からをやぶる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "ガリョウテンセイ": {
+    "type": "flying",
+    "power": "120",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "かわらわり": {
+    "type": "fighting",
+    "power": "75",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "がんせきふうじ": {
+    "type": "rock",
+    "power": "60",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "がんせきほう": {
+    "type": "rock",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "きあいだま": {
+    "type": "fighting",
+    "power": "120",
+    "acc": "70",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "きあいだめ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "きあいパンチ": {
+    "type": "fighting",
+    "power": "150",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ギアソーサー": {
+    "type": "steel",
+    "power": "50",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ギアチェンジ": {
+    "type": "steel",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ギガインパクト": {
+    "type": "normal",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ギガドレイン": {
+    "type": "grass",
+    "power": "75",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "きしかいせい": {
+    "type": "fighting",
+    "power": "1",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "キノコのほうし": {
+    "type": "grass",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "きゅうけつ": {
+    "type": "bug",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "きょじゅうざん": {
+    "type": "steel",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "きょじゅうだん": {
+    "type": "steel",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "きりさく": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "きりばらい": {
+    "type": "flying",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "キングシールド": {
+    "type": "steel",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "きんぞくおん": {
+    "type": "steel",
+    "power": "0",
+    "acc": "85",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "クイックターン": {
+    "type": "water",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "くさのちかい": {
+    "type": "grass",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "くさむすび": {
+    "type": "grass",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "くすぐる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "くらいつく": {
+    "type": "dark",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "グラススライダー": {
+    "type": "grass",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "グラスフィールド": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "グラスミキサー": {
+    "type": "grass",
+    "power": "65",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "クラブハンマー": {
+    "type": "water",
+    "power": "100",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "グランドフォース": {
+    "type": "ground",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "クリアスモッグ": {
+    "type": "poison",
+    "power": "50",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "くろいきり": {
+    "type": "ice",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "くろいまなざし": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "グロウパンチ": {
+    "type": "fighting",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "クロスサンダー": {
+    "type": "electric",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "クロスチョップ": {
+    "type": "fighting",
+    "power": "100",
+    "acc": "80",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "クロスフレイム": {
+    "type": "fire",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "クロスポイズン": {
+    "type": "poison",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "げきりん": {
+    "type": "dragon",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "けたぐり": {
+    "type": "fighting",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ゲップ": {
+    "type": "poison",
+    "power": "120",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "げんしのちから": {
+    "type": "rock",
+    "power": "60",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "コアパニッシャー": {
+    "type": "dragon",
+    "power": "100",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "こうげきしれい": {
+    "type": "bug",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "こうごうせい": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "こうそくいどう": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "こうそくスピン": {
+    "type": "normal",
+    "power": "50",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Phm"
+  },
+  "ゴーストダイブ": {
+    "type": "ghost",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "コーチング": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "コートチェンジ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "こおりのいぶき": {
+    "type": "ice",
+    "power": "60",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "こおりのキバ": {
+    "type": "ice",
+    "power": "65",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "こおりのつぶて": {
+    "type": "ice",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "コールドフレア": {
+    "type": "ice",
+    "power": "140",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "こごえるかぜ": {
+    "type": "ice",
+    "power": "55",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "こごえるせかい": {
+    "type": "ice",
+    "power": "65",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "こころのめ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "コスモパワー": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ゴッドバード": {
+    "type": "flying",
+    "power": "140",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "コットンガード": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "こなゆき": {
+    "type": "ice",
+    "power": "40",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Spm"
+  },
+  "このは": {
+    "type": "grass",
+    "power": "40",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Phm"
+  },
+  "このゆびとまれ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "コメットパンチ": {
+    "type": "steel",
+    "power": "90",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "こらえる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ころがる": {
+    "type": "rock",
+    "power": "30",
+    "acc": "90",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "こわいかお": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "こんげんのはどう": {
+    "type": "water",
+    "power": "110",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "サイケこうせん": {
+    "type": "psychic",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "サイコカッター": {
+    "type": "psychic",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "サイコキネシス": {
+    "type": "psychic",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "サイコシフト": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "サイコショック": {
+    "type": "psychic",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "サイコファング": {
+    "type": "psychic",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "サイコフィールド": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "サイコブレイク": {
+    "type": "psychic",
+    "power": "100",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "サイドチェンジ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "さいはい": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "さいみんじゅつ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "60",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "サウザンアロー": {
+    "type": "ground",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "サウザンウェーブ": {
+    "type": "ground",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "さきおくり": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "さわぐ": {
+    "type": "normal",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "サンダープリズン": {
+    "type": "electric",
+    "power": "80",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "シェルアームズ": {
+    "type": "poison",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "シェルブレード": {
+    "type": "water",
+    "power": "75",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ジオコントロール": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "しおふき": {
+    "type": "water",
+    "power": "150",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "しおみず": {
+    "type": "water",
+    "power": "65",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "じこあんじ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "じごくぐるま": {
+    "type": "fighting",
+    "power": "80",
+    "acc": "80",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "じごくづき": {
+    "type": "dark",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "じこさいせい": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "シザークロス": {
+    "type": "bug",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "じしん": {
+    "type": "ground",
+    "power": "100",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "しぜんのいかり": {
+    "type": "fairy",
+    "power": "1",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "しぜんのちから": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "したでなめる": {
+    "type": "ghost",
+    "power": "30",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "じたばた": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "じだんだ": {
+    "type": "ground",
+    "power": "75",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "しっとのほのお": {
+    "type": "fire",
+    "power": "70",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "しっぺがえし": {
+    "type": "dark",
+    "power": "50",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "しっぽをふる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "じならし": {
+    "type": "ground",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "しねんのずつき": {
+    "type": "psychic",
+    "power": "80",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "じばく": {
+    "type": "normal",
+    "power": "200",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "じばそうさ": {
+    "type": "electric",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "しびれごな": {
+    "type": "grass",
+    "power": "0",
+    "acc": "75",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "しめつける": {
+    "type": "normal",
+    "power": "15",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ジャイロボール": {
+    "type": "steel",
+    "power": "1",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "シャドークロー": {
+    "type": "ghost",
+    "power": "70",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "シャドースチール": {
+    "type": "ghost",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "シャドーダイブ": {
+    "type": "ghost",
+    "power": "120",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "シャドーパンチ": {
+    "type": "ghost",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "シャドーボール": {
+    "type": "ghost",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "シャドーボーン": {
+    "type": "ghost",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "シャドーレイ": {
+    "type": "ghost",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "じゃれつく": {
+    "type": "fairy",
+    "power": "90",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ジャングルヒール": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "じゅうでん": {
+    "type": "electric",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "じゅうりょく": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "じょうか": {
+    "type": "poison",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "しろいきり": {
+    "type": "ice",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "じわれ": {
+    "type": "ground",
+    "power": "1",
+    "acc": "30",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "しんくうは": {
+    "type": "fighting",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Spm"
+  },
+  "しんそく": {
+    "type": "normal",
+    "power": "80",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "じんつうりき": {
+    "type": "psychic",
+    "power": "80",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "しんぴのつるぎ": {
+    "type": "fighting",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "しんぴのまもり": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "25",
+    "cat": "Stm"
+  },
+  "シンプルビーム": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "スイープビンタ": {
+    "type": "normal",
+    "power": "25",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "すいとる": {
+    "type": "grass",
+    "power": "20",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Spm"
+  },
+  "すいりゅうれんだ": {
+    "type": "water",
+    "power": "25",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "スキルスワップ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "スケイルショット": {
+    "type": "dragon",
+    "power": "25",
+    "acc": "90",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "スケイルノイズ": {
+    "type": "dragon",
+    "power": "110",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "スターアサルト": {
+    "type": "fighting",
+    "power": "150",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "スチームバースト": {
+    "type": "water",
+    "power": "110",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ずつき": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "すてゼリフ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "すてみタックル": {
+    "type": "normal",
+    "power": "120",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ステルスロック": {
+    "type": "rock",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ストーンエッジ": {
+    "type": "rock",
+    "power": "100",
+    "acc": "80",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "すなあつめ": {
+    "type": "ground",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "すなあらし": {
+    "type": "rock",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "すなかけ": {
+    "type": "ground",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "すなじごく": {
+    "type": "ground",
+    "power": "35",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "スパーク": {
+    "type": "electric",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "スピードスター": {
+    "type": "normal",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "スピードスワップ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "スプーンまげ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "80",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "スマートホーン": {
+    "type": "steel",
+    "power": "70",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "スモッグ": {
+    "type": "poison",
+    "power": "30",
+    "acc": "70",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "すりかえ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "せいちょう": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "せいなるつるぎ": {
+    "type": "fighting",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "せいなるほのお": {
+    "type": "fire",
+    "power": "100",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ぜったいれいど": {
+    "type": "ice",
+    "power": "1",
+    "acc": "30",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "そうでん": {
+    "type": "electric",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ソウルクラッシュ": {
+    "type": "fairy",
+    "power": "75",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ソウルビート": {
+    "type": "dragon",
+    "power": "0",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "ソーラービーム": {
+    "type": "grass",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ソーラーブレード": {
+    "type": "grass",
+    "power": "125",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "そらをとぶ": {
+    "type": "flying",
+    "power": "90",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "タールショット": {
+    "type": "rock",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "たいあたり": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "だいちのちから": {
+    "type": "ground",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "だいちのはどう": {
+    "type": "normal",
+    "power": "50",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "だいばくはつ": {
+    "type": "normal",
+    "power": "250",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ダイビング": {
+    "type": "water",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ダイマックスほう": {
+    "type": "dragon",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "だいもんじ": {
+    "type": "fire",
+    "power": "110",
+    "acc": "85",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ダイヤストーム": {
+    "type": "rock",
+    "power": "100",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "たきのぼり": {
+    "type": "water",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "だくりゅう": {
+    "type": "water",
+    "power": "90",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "たくわえる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "たこがため": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "ダストシュート": {
+    "type": "poison",
+    "power": "120",
+    "acc": "80",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "たたきつける": {
+    "type": "normal",
+    "power": "80",
+    "acc": "75",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "たたみがえし": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "たたりめ": {
+    "type": "ghost",
+    "power": "65",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "たつまき": {
+    "type": "dragon",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "タネばくだん": {
+    "type": "grass",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "タネマシンガン": {
+    "type": "grass",
+    "power": "25",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "ダブルアタック": {
+    "type": "normal",
+    "power": "35",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ダブルウイング": {
+    "type": "flying",
+    "power": "40",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ダブルチョップ": {
+    "type": "dragon",
+    "power": "40",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ダブルパンツァー": {
+    "type": "steel",
+    "power": "60",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "タマゴうみ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ダメおし": {
+    "type": "dark",
+    "power": "60",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "だんがいのつるぎ": {
+    "type": "ground",
+    "power": "120",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ちいさくなる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ちからをすいとる": {
+    "type": "grass",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ちきゅうなげ": {
+    "type": "fighting",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "チャージビーム": {
+    "type": "electric",
+    "power": "50",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "チャームボイス": {
+    "type": "fairy",
+    "power": "40",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ちょうおんぱ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "55",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ちょうのまい": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ちょうはつ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ついばむ": {
+    "type": "flying",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "つきのひかり": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "つけあがる": {
+    "type": "dark",
+    "power": "20",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "つじぎり": {
+    "type": "dark",
+    "power": "70",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "つつく": {
+    "type": "flying",
+    "power": "35",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "つっぱり": {
+    "type": "fighting",
+    "power": "15",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "つのでつく": {
+    "type": "normal",
+    "power": "65",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "つのドリル": {
+    "type": "normal",
+    "power": "1",
+    "acc": "30",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "つばさでうつ": {
+    "type": "flying",
+    "power": "60",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "つばめがえし": {
+    "type": "flying",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "つぶらなひとみ": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "つぼをつく": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "つめとぎ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "つららおとし": {
+    "type": "ice",
+    "power": "85",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "つららばり": {
+    "type": "ice",
+    "power": "25",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "つるぎのまい": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "つるのムチ": {
+    "type": "grass",
+    "power": "45",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "であいがしら": {
+    "type": "bug",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "てかげん": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Phm"
+  },
+  "テクスチャー": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "テクスチャー2": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "テクノバスター": {
+    "type": "normal",
+    "power": "120",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "デコレーション": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "デスウイング": {
+    "type": "flying",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "てだすけ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "てっていこうせん": {
+    "type": "steel",
+    "power": "140",
+    "acc": "95",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "てっぺき": {
+    "type": "steel",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "テレポート": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "てをつなぐ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "でんきショック": {
+    "type": "electric",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Spm"
+  },
+  "でんげきくちばし": {
+    "type": "electric",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "でんげきは": {
+    "type": "electric",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "でんこうせっか": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "てんしのキッス": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "75",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "でんじは": {
+    "type": "electric",
+    "power": "0",
+    "acc": "90",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "でんじふゆう": {
+    "type": "electric",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "でんじほう": {
+    "type": "electric",
+    "power": "120",
+    "acc": "50",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "とおせんぼう": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "トーチカ": {
+    "type": "poison",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "とおぼえ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "とぎすます": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "ときのほうこう": {
+    "type": "dragon",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "どくガス": {
+    "type": "poison",
+    "power": "0",
+    "acc": "90",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "どくづき": {
+    "type": "poison",
+    "power": "80",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "どくどく": {
+    "type": "poison",
+    "power": "0",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "どくどくのキバ": {
+    "type": "poison",
+    "power": "50",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "どくのこな": {
+    "type": "poison",
+    "power": "0",
+    "acc": "75",
+    "pp": "35",
+    "cat": "Stm"
+  },
+  "どくばり": {
+    "type": "poison",
+    "power": "15",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "どくびし": {
+    "type": "poison",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "とぐろをまく": {
+    "type": "poison",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "どげざつき": {
+    "type": "dark",
+    "power": "80",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "とける": {
+    "type": "poison",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "とっしん": {
+    "type": "normal",
+    "power": "90",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "とっておき": {
+    "type": "normal",
+    "power": "140",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "とどめばり": {
+    "type": "bug",
+    "power": "50",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "とびかかる": {
+    "type": "bug",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "とびはねる": {
+    "type": "flying",
+    "power": "85",
+    "acc": "85",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "とびひざげり": {
+    "type": "fighting",
+    "power": "130",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ともえなげ": {
+    "type": "fighting",
+    "power": "60",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "トライアタック": {
+    "type": "normal",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ドラゴンアロー": {
+    "type": "dragon",
+    "power": "50",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ドラゴンエナジー": {
+    "type": "dragon",
+    "power": "150",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ドラゴンクロー": {
+    "type": "dragon",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ドラゴンダイブ": {
+    "type": "dragon",
+    "power": "100",
+    "acc": "75",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ドラゴンテール": {
+    "type": "dragon",
+    "power": "60",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ドラゴンハンマー": {
+    "type": "dragon",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "トラップシェル": {
+    "type": "fire",
+    "power": "150",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "トラバサミ": {
+    "type": "grass",
+    "power": "35",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ドラムアタック": {
+    "type": "grass",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "トリック": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "トリックガード": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "トリックルーム": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "トリプルアクセル": {
+    "type": "ice",
+    "power": "20",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "トリプルキック": {
+    "type": "fighting",
+    "power": "10",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ドリルくちばし": {
+    "type": "flying",
+    "power": "80",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ドリルライナー": {
+    "type": "ground",
+    "power": "80",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ドレインキッス": {
+    "type": "fairy",
+    "power": "50",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ドレインパンチ": {
+    "type": "fighting",
+    "power": "75",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "どろかけ": {
+    "type": "ground",
+    "power": "20",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "トロピカルキック": {
+    "type": "grass",
+    "power": "70",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "どろぼう": {
+    "type": "dark",
+    "power": "60",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "ドわすれ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "とんぼがえり": {
+    "type": "bug",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ないしょばなし": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ナイトバースト": {
+    "type": "dark",
+    "power": "85",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ナイトヘッド": {
+    "type": "ghost",
+    "power": "1",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "なかまづくり": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "なかよくする": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "なきごえ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "なげつける": {
+    "type": "dark",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "なまける": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "なみだめ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "なみのり": {
+    "type": "water",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "なやみのタネ": {
+    "type": "grass",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "なりきり": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ニードルガード": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "にぎりつぶす": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "にどげり": {
+    "type": "fighting",
+    "power": "30",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "ニトロチャージ": {
+    "type": "fire",
+    "power": "50",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "にほんばれ": {
+    "type": "fire",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "にらみつける": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "ねがいごと": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ねこだまし": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ねごと": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ネコにこばん": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ねっさのだいち": {
+    "type": "ground",
+    "power": "70",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ねっとう": {
+    "type": "water",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ねっぷう": {
+    "type": "fire",
+    "power": "95",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ねばねばネット": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ねむりごな": {
+    "type": "grass",
+    "power": "0",
+    "acc": "75",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "ねむる": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ねらいうち": {
+    "type": "water",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ねをはる": {
+    "type": "grass",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ねんりき": {
+    "type": "psychic",
+    "power": "50",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Spm"
+  },
+  "のしかかり": {
+    "type": "normal",
+    "power": "85",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "のみこむ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "のろい": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "バークアウト": {
+    "type": "dark",
+    "power": "55",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ハードプラント": {
+    "type": "grass",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "はいすいのじん": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "ハイドロカノン": {
+    "type": "water",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ハイドロポンプ": {
+    "type": "water",
+    "power": "110",
+    "acc": "80",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ハイパーボイス": {
+    "type": "normal",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "はいよるいちげき": {
+    "type": "bug",
+    "power": "70",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "はかいこうせん": {
+    "type": "normal",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ばかぢから": {
+    "type": "fighting",
+    "power": "120",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "はがねのつばさ": {
+    "type": "steel",
+    "power": "70",
+    "acc": "90",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "はきだす": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ばくおんぱ": {
+    "type": "normal",
+    "power": "140",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ばくれつパンチ": {
+    "type": "fighting",
+    "power": "100",
+    "acc": "50",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ハサミギロチン": {
+    "type": "normal",
+    "power": "1",
+    "acc": "30",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "はさむ": {
+    "type": "normal",
+    "power": "55",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "はたきおとす": {
+    "type": "dark",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "はたく": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "はっけい": {
+    "type": "fighting",
+    "power": "60",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "はっぱカッター": {
+    "type": "grass",
+    "power": "55",
+    "acc": "95",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "ハッピータイム": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "はどうだん": {
+    "type": "fighting",
+    "power": "80",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "バトンタッチ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "はなびらのまい": {
+    "type": "grass",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "はなふぶき": {
+    "type": "grass",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "はねやすめ": {
+    "type": "flying",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "はねる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "バブルこうせん": {
+    "type": "water",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "はめつのねがい": {
+    "type": "steel",
+    "power": "140",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "はらだいこ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "パラボラチャージ": {
+    "type": "electric",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "バレットパンチ": {
+    "type": "steel",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "ハロウィン": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "パワーウィップ": {
+    "type": "grass",
+    "power": "120",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "パワーシェア": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "パワージェム": {
+    "type": "rock",
+    "power": "80",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "パワースワップ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "パワートリック": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ヒートスタンプ": {
+    "type": "fire",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ひかりのかべ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "ひっかく": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "ひっくりかえす": {
+    "type": "dark",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ビックリヘッド": {
+    "type": "fire",
+    "power": "150",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ひのこ": {
+    "type": "fire",
+    "power": "40",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Spm"
+  },
+  "びりびりちくちく": {
+    "type": "electric",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ビルドアップ": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ファストガード": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "ふいうち": {
+    "type": "dark",
+    "power": "70",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ふういん": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "フェアリーロック": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "フェイント": {
+    "type": "normal",
+    "power": "30",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "フェザーダンス": {
+    "type": "flying",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "フォトンゲイザー": {
+    "type": "psychic",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ふきとばし": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ぶきみなじゅもん": {
+    "type": "psychic",
+    "power": "80",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ふくろだたき": {
+    "type": "dark",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ふしょくガス": {
+    "type": "poison",
+    "power": "0",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "ふぶき": {
+    "type": "ice",
+    "power": "110",
+    "acc": "70",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ふみつけ": {
+    "type": "normal",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "フライングプレス": {
+    "type": "fighting",
+    "power": "100",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ブラストバーン": {
+    "type": "fire",
+    "power": "150",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "プラズマフィスト": {
+    "type": "electric",
+    "power": "100",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "フラフラダンス": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "フラワーガード": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "フラワーヒール": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "フリーズドライ": {
+    "type": "ice",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "フリーズボルト": {
+    "type": "ice",
+    "power": "140",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ブリザードランス": {
+    "type": "ice",
+    "power": "130",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "プリズムレーザー": {
+    "type": "psychic",
+    "power": "160",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ふるいたてる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "フルールカノン": {
+    "type": "fairy",
+    "power": "130",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "フレアドライブ": {
+    "type": "fire",
+    "power": "120",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ブレイククロー": {
+    "type": "normal",
+    "power": "75",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ブレイズキック": {
+    "type": "fire",
+    "power": "85",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ブレイブバード": {
+    "type": "flying",
+    "power": "120",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "プレゼント": {
+    "type": "normal",
+    "power": "1",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ブロッキング": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ふんえん": {
+    "type": "fire",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ふんか": {
+    "type": "fire",
+    "power": "150",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ぶんまわす": {
+    "type": "dark",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ヘドロウェーブ": {
+    "type": "poison",
+    "power": "95",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ヘドロこうげき": {
+    "type": "poison",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "ヘドロばくだん": {
+    "type": "poison",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ベノムショック": {
+    "type": "poison",
+    "power": "65",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ベノムトラップ": {
+    "type": "poison",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ヘビーボンバー": {
+    "type": "steel",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "へびにらみ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "へんしん": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ポイズンテール": {
+    "type": "poison",
+    "power": "50",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "ぼうぎょしれい": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ほうでん": {
+    "type": "electric",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ぼうふう": {
+    "type": "flying",
+    "power": "110",
+    "acc": "70",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ほえる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ほおばる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ボーンラッシュ": {
+    "type": "ground",
+    "power": "25",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ほしがる": {
+    "type": "normal",
+    "power": "60",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "ほっぺすりすり": {
+    "type": "electric",
+    "power": "20",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ボディパージ": {
+    "type": "steel",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "ボディプレス": {
+    "type": "fighting",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ホネブーメラン": {
+    "type": "ground",
+    "power": "50",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ほのおのうず": {
+    "type": "fire",
+    "power": "35",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ほのおのキバ": {
+    "type": "fire",
+    "power": "65",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ほのおのちかい": {
+    "type": "fire",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ほのおのパンチ": {
+    "type": "fire",
+    "power": "75",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ほのおのまい": {
+    "type": "fire",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ほのおのムチ": {
+    "type": "fire",
+    "power": "80",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ポルターガイスト": {
+    "type": "ghost",
+    "power": "110",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ボルテッカー": {
+    "type": "electric",
+    "power": "120",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ボルトチェンジ": {
+    "type": "electric",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "ほろびのうた": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "まきつく": {
+    "type": "normal",
+    "power": "15",
+    "acc": "90",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "まきびし": {
+    "type": "ground",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "マグマストーム": {
+    "type": "fire",
+    "power": "100",
+    "acc": "75",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "マジカルシャイン": {
+    "type": "fairy",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "マジカルフレイム": {
+    "type": "fire",
+    "power": "75",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "マジカルリーフ": {
+    "type": "grass",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "マジックコート": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "マジックルーム": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "マッドショット": {
+    "type": "ground",
+    "power": "55",
+    "acc": "95",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "マッハパンチ": {
+    "type": "fighting",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "まとわりつく": {
+    "type": "bug",
+    "power": "20",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "まねっこ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "まほうのこな": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "まもる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "まるくなる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "マルチアタック": {
+    "type": "normal",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "みかづきのまい": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "みがわり": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "みきり": {
+    "type": "fighting",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "ミサイルばり": {
+    "type": "bug",
+    "power": "25",
+    "acc": "95",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "みずしゅりけん": {
+    "type": "water",
+    "power": "15",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "みずでっぽう": {
+    "type": "water",
+    "power": "40",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Spm"
+  },
+  "ミストバースト": {
+    "type": "fairy",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ミストフィールド": {
+    "type": "fairy",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ミストボール": {
+    "type": "psychic",
+    "power": "70",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "みずのちかい": {
+    "type": "water",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "みずのはどう": {
+    "type": "water",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "みずびたし": {
+    "type": "water",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "みだれづき": {
+    "type": "normal",
+    "power": "15",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "みだれひっかき": {
+    "type": "normal",
+    "power": "18",
+    "acc": "80",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "みちづれ": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "みねうち": {
+    "type": "normal",
+    "power": "40",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Phm"
+  },
+  "ミラーコート": {
+    "type": "psychic",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "ミラータイプ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "みらいよち": {
+    "type": "psychic",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ミルクのみ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ムーンフォース": {
+    "type": "fairy",
+    "power": "95",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ムゲンダイビーム": {
+    "type": "dragon",
+    "power": "160",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "むしくい": {
+    "type": "bug",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "むしのさざめき": {
+    "type": "bug",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "むしのていこう": {
+    "type": "bug",
+    "power": "50",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "めいそう": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "メガドレイン": {
+    "type": "grass",
+    "power": "40",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "メガトンキック": {
+    "type": "normal",
+    "power": "120",
+    "acc": "75",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "メガトンパンチ": {
+    "type": "normal",
+    "power": "80",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "メガホーン": {
+    "type": "bug",
+    "power": "120",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "メタルクロー": {
+    "type": "steel",
+    "power": "50",
+    "acc": "95",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "メタルバースト": {
+    "type": "steel",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "メテオドライブ": {
+    "type": "steel",
+    "power": "100",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "メテオビーム": {
+    "type": "rock",
+    "power": "120",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "メロメロ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "もえあがるいかり": {
+    "type": "dark",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "もえつきる": {
+    "type": "fire",
+    "power": "130",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ものまね": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "もりののろい": {
+    "type": "grass",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "もろはのずつき": {
+    "type": "rock",
+    "power": "150",
+    "acc": "80",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "やきつくす": {
+    "type": "fire",
+    "power": "60",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "やどりぎのタネ": {
+    "type": "grass",
+    "power": "0",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "やまあらし": {
+    "type": "fighting",
+    "power": "60",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ゆきなだれ": {
+    "type": "ice",
+    "power": "60",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ゆびをふる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ゆめくい": {
+    "type": "psychic",
+    "power": "100",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ようかいえき": {
+    "type": "poison",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Spm"
+  },
+  "ようせいのかぜ": {
+    "type": "fairy",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Spm"
+  },
+  "らいげき": {
+    "type": "electric",
+    "power": "130",
+    "acc": "85",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ライジングボルト": {
+    "type": "electric",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "らいめいげり": {
+    "type": "fighting",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ラスターカノン": {
+    "type": "steel",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ラスターパージ": {
+    "type": "psychic",
+    "power": "70",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "リーフストーム": {
+    "type": "grass",
+    "power": "130",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "リーフブレード": {
+    "type": "grass",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "リサイクル": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "リフレクター": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "リベンジ": {
+    "type": "fighting",
+    "power": "60",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "りゅうせいぐん": {
+    "type": "dragon",
+    "power": "130",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "りゅうのいぶき": {
+    "type": "dragon",
+    "power": "60",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "りゅうのはどう": {
+    "type": "dragon",
+    "power": "85",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "りゅうのまい": {
+    "type": "dragon",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "りんごさん": {
+    "type": "grass",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "りんしょう": {
+    "type": "normal",
+    "power": "60",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "れいとうパンチ": {
+    "type": "ice",
+    "power": "75",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "れいとうビーム": {
+    "type": "ice",
+    "power": "90",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "れんごく": {
+    "type": "fire",
+    "power": "100",
+    "acc": "50",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "れんぞくぎり": {
+    "type": "bug",
+    "power": "40",
+    "acc": "95",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ローキック": {
+    "type": "fighting",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ロケットずつき": {
+    "type": "normal",
+    "power": "130",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ロックオン": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Stm"
+  },
+  "ロックカット": {
+    "type": "rock",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ロックブラスト": {
+    "type": "rock",
+    "power": "25",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ワイドガード": {
+    "type": "rock",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ワイドフォース": {
+    "type": "psychic",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ワイドブレイカー": {
+    "type": "dragon",
+    "power": "60",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ワイルドボルト": {
+    "type": "electric",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "わたほうし": {
+    "type": "grass",
+    "power": "0",
+    "acc": "100",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "わるあがき": {
+    "type": "normal",
+    "power": "50",
+    "acc": "0",
+    "pp": "1",
+    "cat": "Phm"
+  },
+  "わるだくみ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ワンダースチーム": {
+    "type": "fairy",
+    "power": "90",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ワンダールーム": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "からてチョップ": {
+    "type": "fighting",
+    "power": "50",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "おうふくビンタ": {
+    "type": "normal",
+    "power": "15",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "れんぞくパンチ": {
+    "type": "normal",
+    "power": "18",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "かまいたち": {
+    "type": "normal",
+    "power": "80",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "とびげり": {
+    "type": "fighting",
+    "power": "100",
+    "acc": "95",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "まわしげり": {
+    "type": "fighting",
+    "power": "60",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "ダブルニードル": {
+    "type": "bug",
+    "power": "25",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ソニックブーム": {
+    "type": "normal",
+    "power": "1",
+    "acc": "90",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "りゅうのいかり": {
+    "type": "dragon",
+    "power": "1",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ヨガのポーズ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "いかり": {
+    "type": "normal",
+    "power": "20",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "バリアー": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "がまん": {
+    "type": "normal",
+    "power": "1",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "オウムがえし": {
+    "type": "flying",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "タマゴばくだん": {
+    "type": "normal",
+    "power": "100",
+    "acc": "75",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ホネこんぼう": {
+    "type": "ground",
+    "power": "65",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "からではさむ": {
+    "type": "water",
+    "power": "35",
+    "acc": "85",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "とげキャノン": {
+    "type": "normal",
+    "power": "20",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "からみつく": {
+    "type": "normal",
+    "power": "10",
+    "acc": "100",
+    "pp": "35",
+    "cat": "Phm"
+  },
+  "たまなげ": {
+    "type": "normal",
+    "power": "15",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "あわ": {
+    "type": "water",
+    "power": "40",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Spm"
+  },
+  "ピヨピヨパンチ": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "フラッシュ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "サイコウェーブ": {
+    "type": "psychic",
+    "power": "1",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "ひっさつまえば": {
+    "type": "normal",
+    "power": "80",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "かくばる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "クモのす": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "あくむ": {
+    "type": "ghost",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "だましうち": {
+    "type": "dark",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "みやぶる": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "おんがえし": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "やつあたり": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "マグニチュード": {
+    "type": "ground",
+    "power": "1",
+    "acc": "100",
+    "pp": "30",
+    "cat": "Phm"
+  },
+  "おいうち": {
+    "type": "dark",
+    "power": "40",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "めざめるパワー": {
+    "type": "normal",
+    "power": "60",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "きつけ": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ねこのて": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "リフレッシュ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "よこどり": {
+    "type": "dark",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "ひみつのちから": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ほごしょく": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "ほたるび": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "どろあそび": {
+    "type": "ground",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "アイスボール": {
+    "type": "ice",
+    "power": "30",
+    "acc": "90",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ニードルアーム": {
+    "type": "grass",
+    "power": "60",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "かぎわける": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "ぎんいろのかぜ": {
+    "type": "bug",
+    "power": "60",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "くさぶえ": {
+    "type": "grass",
+    "power": "0",
+    "acc": "55",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "シグナルビーム": {
+    "type": "bug",
+    "power": "75",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "スカイアッパー": {
+    "type": "fighting",
+    "power": "85",
+    "acc": "90",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "みずあそび": {
+    "type": "water",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "サイコブースト": {
+    "type": "psychic",
+    "power": "140",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "ミラクルアイ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "40",
+    "cat": "Stm"
+  },
+  "めざましビンタ": {
+    "type": "fighting",
+    "power": "70",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "しぜんのめぐみ": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "さしおさえ": {
+    "type": "dark",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "きりふだ": {
+    "type": "normal",
+    "power": "1",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "かいふくふうじ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "しぼりとる": {
+    "type": "normal",
+    "power": "1",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "おまじない": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "30",
+    "cat": "Stm"
+  },
+  "さきどり": {
+    "type": "normal",
+    "power": "1",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "おしおき": {
+    "type": "dark",
+    "power": "1",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "ハートスワップ": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "どろばくだん": {
+    "type": "ground",
+    "power": "65",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ミラーショット": {
+    "type": "steel",
+    "power": "65",
+    "acc": "85",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "ロッククライム": {
+    "type": "normal",
+    "power": "90",
+    "acc": "85",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "マグネットボム": {
+    "type": "steel",
+    "power": "60",
+    "acc": "0",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "ゆうわく": {
+    "type": "normal",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "かいふくしれい": {
+    "type": "bug",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "あやしいかぜ": {
+    "type": "ghost",
+    "power": "60",
+    "acc": "100",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "テレキネシス": {
+    "type": "psychic",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "はじけるほのお": {
+    "type": "fire",
+    "power": "70",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "シンクロノイズ": {
+    "type": "psychic",
+    "power": "120",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "なしくずし": {
+    "type": "normal",
+    "power": "70",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "フリーフォール": {
+    "type": "flying",
+    "power": "60",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "ギフトパス": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "ハートスタンプ": {
+    "type": "psychic",
+    "power": "60",
+    "acc": "100",
+    "pp": "25",
+    "cat": "Phm"
+  },
+  "ハードローラー": {
+    "type": "bug",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Phm"
+  },
+  "いにしえのうた": {
+    "type": "normal",
+    "power": "75",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "たがやす": {
+    "type": "ground",
+    "power": "0",
+    "acc": "0",
+    "pp": "10",
+    "cat": "Stm"
+  },
+  "プラズマシャワー": {
+    "type": "electric",
+    "power": "0",
+    "acc": "0",
+    "pp": "25",
+    "cat": "Stm"
+  },
+  "ふんじん": {
+    "type": "bug",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "はめつのひかり": {
+    "type": "fairy",
+    "power": "140",
+    "acc": "90",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "スポットライト": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "15",
+    "cat": "Stm"
+  },
+  "どくのいと": {
+    "type": "poison",
+    "power": "0",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Stm"
+  },
+  "めざめるダンス": {
+    "type": "normal",
+    "power": "90",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Spm"
+  },
+  "アイスハンマー": {
+    "type": "ice",
+    "power": "100",
+    "acc": "90",
+    "pp": "10",
+    "cat": "Phm"
+  },
+  "いじげんホール": {
+    "type": "psychic",
+    "power": "80",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "いじげんラッシュ": {
+    "type": "dark",
+    "power": "100",
+    "acc": "0",
+    "pp": "5",
+    "cat": "Phm"
+  },
+  "おしゃべり": {
+    "type": "flying",
+    "power": "65",
+    "acc": "100",
+    "pp": "20",
+    "cat": "Spm"
+  },
+  "くちばしキャノン": {
+    "type": "flying",
+    "power": "100",
+    "acc": "100",
+    "pp": "15",
+    "cat": "Phm"
+  },
+  "さばきのつぶて": {
+    "type": "normal",
+    "power": "100",
+    "acc": "100",
+    "pp": "10",
+    "cat": "Spm"
+  },
+  "シードフレア": {
+    "type": "grass",
+    "power": "120",
+    "acc": "85",
+    "pp": "5",
+    "cat": "Spm"
+  },
+  "スケッチ": {
+    "type": "normal",
+    "power": "0",
+    "acc": "0",
+    "pp": "1",
+    "cat": "Stm"
+  },
+  "ダークホール": {
+    "type": "dark",
+    "power": "0",
+    "acc": "50",
+    "pp": "10",
+    "cat": "Stm"
+  }
+}
